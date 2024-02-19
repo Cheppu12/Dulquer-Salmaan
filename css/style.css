@@ -48,15 +48,16 @@
      color: #111111;
      margin: 0 
 }
- h1 {
-     font-size: 24px 
+h1{
+    font-size: 24px;
 }
  h2 {
      font-size: 22px 
 }
  h3 {
-     font-size: 18px 
+     font-size: 18px;
 }
+
  h4 {
      font-size: 16px 
 }
@@ -1014,7 +1015,7 @@
      transition: 0s;
 }
 .header-top {
-    background: url(../images/banner2.jpg);
+    background: url(../images/img.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 50px;
@@ -1172,7 +1173,7 @@
     margin: 0;
 }
  .box_bg_img figure img {
-    width: 100%;
+    width: 50%;
 }
  .border_right {
     border-right: #f00 solid 6px;
